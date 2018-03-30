@@ -1,0 +1,35 @@
+#boxL, #boxR { 
+    border: 1px solid lightgray;
+    background-color: #fff;
+    margin-bottom: 400px; 
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+#boxR {
+    margin-left: 80px; 
+}
+
+
+form {
+    padding-top: 20px;
+}
+
+.column .column2 {
+    border: 1px solid lightgray;
+    margin-bottom: 400px; 
+}
+
+.col-md-1 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#git {
+    margin-left: 15px;
+}
+
+.icons {
+    width: 60px;
+    padding-top: 20px;
+}
